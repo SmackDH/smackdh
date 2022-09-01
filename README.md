@@ -3,19 +3,19 @@
 
 
 ## 💫 About Me:
-👷🏼‍♂️ Working On: This profile 👀 <br>
-🤝 I'm looking to collaborate with:<br>
-🙋🏼‍♂️ Looking for help with: React.js<br>
-📚 I'm currently learning: Ruby on Rails, Self development<br>
-➡️ Ask me about: Life in Japan, Code or technology in general.<br>
-👀 Fun Fact: I really love Korean food.
+👷🏼‍♂️ <strong>Working On</strong>: This profile 👀 <br>
+🤝 <strong>I'm looking to collaborate with</strong>:<br>
+🙋🏼‍♂️ <strong>Looking for help with</strong>: React.js<br>
+📚 <strong>I'm currently learning</strong>: Ruby on Rails, Self development<br>
+➡️ <strong>Talk to me about</strong>: Life in Japan, Code or technology in general.<br>
+👀 <strong>Fun Fact</strong>: I live in Japan but love Korean food.
 
 ## Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mattiaswel)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattias-velamsson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattiasvelamsson@gmail.com)
 
-## 💻 Worked With:
+## 💻 Worked With
 <table><tr><td valign="top" width="25%">
 
 <div align="center">
@@ -63,7 +63,7 @@
 
  </td></tr></table>  
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SmackDH&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SmackDH&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmackDH&theme=tokyonight&layout=compact)
