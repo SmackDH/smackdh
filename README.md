@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-👷🏼‍♂️ <strong>Working On</strong>: This profile 👀 <br>
+👷🏼‍♂️ <strong>Working On</strong>: TheOdinProject <br>
 🤝 <strong>I'm looking to collaborate with</strong>:<br>
 🙋🏼‍♂️ <strong>Looking for help with</strong>: React.js<br>
 📚 <strong>I'm currently learning</strong>: Ruby on Rails, Self development<br>
