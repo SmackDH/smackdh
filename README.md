@@ -6,7 +6,7 @@
 👷🏼‍♂️ <strong>Working On</strong>: TheOdinProject <br>
 🤝 <strong>I'm looking to collaborate with</strong>:<br>
 🙋🏼‍♂️ <strong>Looking for help with</strong>: React.js<br>
-📚 <strong>I'm currently learning</strong>: Ruby on Rails, Self development<br>
+📚 <strong>I'm currently learning</strong>: Ruby on Rails, JavaScript, Ruby<br>
 ➡️ <strong>Talk to me about</strong>: Life in Japan, Code or technology in general.<br>
 👀 <strong>Fun Fact</strong>: I live in Japan but love Korean food.
 
