@@ -3,11 +3,10 @@
 
 
 ## 💫 About Me:
-👷🏼‍♂️ <strong>Working On</strong>: React.js Course <br>
+👷🏼‍♂️ <strong>Working On</strong>: React Course <br>
 🤝 <strong>I'm looking to collaborate with</strong>:<br>
 🙋🏼‍♂️ <strong>Looking for help with</strong>: Node.js<br>
-📚 <strong>I'm currently learning</strong>: React, JavaScript<br>
-➡️ <strong>Talk to me about</strong>: Life in Japan, Code or technology in general.<br>
+📚 <strong>I'm currently learning</strong>: React<br>
 👀 <strong>Fun Fact</strong>: I live in Japan but love Korean food.
 
 ## Connect with me
