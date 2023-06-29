@@ -3,10 +3,10 @@
 
 
 ## 💫 About Me:
-👷🏼‍♂️ <strong>Working On</strong>: React Course <br>
+👷🏼‍♂️ <strong>Working On</strong>: Django REST API <br>
 🤝 <strong>I'm looking to collaborate with</strong>:<br>
-🙋🏼‍♂️ <strong>Looking for help with</strong>: Node.js<br>
-📚 <strong>I'm currently learning</strong>: React<br>
+🙋🏼‍♂️ <strong>Looking for help with</strong>: Django<br>
+📚 <strong>I'm currently learning</strong>: Django<br>
 👀 <strong>Fun Fact</strong>: I live in Japan but love Korean food.
 
 ## Connect with me
