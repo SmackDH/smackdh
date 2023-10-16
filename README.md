@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattias Velamsson</h1>
-<h3 align="center">I'm a Fullstack Developer based in Tokyo, Japan.</h3>
+<h3 align="center">I'm a Fullstack Developer based in Fukuoka, Japan.</h3>
 
 
 ## 💫 About Me:
